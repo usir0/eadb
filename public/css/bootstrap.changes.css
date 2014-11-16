@@ -1,0 +1,20 @@
+.container {
+  padding: 0 1%
+}
+
+.col-sm-6 {
+  padding: 1% 2%
+}
+
+
+#master-table_wrapper label,#project-table_wrapper label {
+  font-weight: normal
+}
+
+#master-table_filter label {
+  float: right
+}
+
+#master-table_filter input,#project-table_filter input {
+  margin-left: 5px
+}

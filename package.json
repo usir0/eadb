@@ -1,0 +1,20 @@
+{
+  "name"         : "eadb",
+  "version"      : "0.0.4",
+  "description"  : "Simple db app.",
+  "main"         : "server.js",
+  "author"       : "usir0",
+  "dependencies" : {
+    "express"    : "~4.7.2",
+    "mongoose"   : "~3.6.2",
+    "morgan"	   : "~1.2.2",
+	"body-parser"  : "~1.5.2",
+	"method-override": "~2.1.2"
+  },
+  "repository" : {
+    "type": "git",
+    "url": "https://github.com/usir0/eadb.git"
+    },
+    "keywords": [ "employee","db"],
+    "engines": { "node": "*" }
+}
